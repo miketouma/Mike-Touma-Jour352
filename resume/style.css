@@ -12,3 +12,9 @@ h1 {
   color: #33485e;
 
 }
+
+strong {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+}
