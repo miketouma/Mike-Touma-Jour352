@@ -1,3 +1,5 @@
+/* Main Style */
+
 body {
   font-family: 'Open Sans', arial, sans-serif;
   font-size: 1em:
@@ -5,16 +7,50 @@ body {
   font-weight: 400;
 }
 
+/*Banner name on top */
 h1 {
   font-size: 3em;
+  color: #33485e;
   text-transform: uppercase;
   text-align: center;
-  color: #33485e;
-
 }
 
+/*Title on top*/
 strong {
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
+}
+
+/*Section titles (experience, skills, education)*/
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+}
+
+/*Job description under experience*/
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/*Job organization under experience*/
+h4 {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+/*Job dates under experience*/
+h5 {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*Lists for contact, education and skills*/
+ul {
+  font-size: 1em;
 }
