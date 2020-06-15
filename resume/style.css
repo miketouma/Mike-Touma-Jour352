@@ -36,10 +36,16 @@ body {
 }
 
 /*Title on top*/
-strong {
+#title {
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
 }
 
 /*Section titles (experience, skills, education)*/
@@ -104,4 +110,11 @@ strong {
 /*Lists for contact, education and skills*/
 ul {
   font-size: 1em;
+}
+
+.top {
+  width: 60%;
+  min-width:300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
