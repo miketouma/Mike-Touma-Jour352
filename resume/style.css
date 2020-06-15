@@ -86,6 +86,7 @@ body {
   margin-left:0;
 }
 
+/* New style for job descriptions*/
 .description {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -100,6 +101,7 @@ body {
   margin-left:0;
 }
 
+/*Id for different skills*/
 #do {
   margin-top: 5px;
   margin-bottom:0;
@@ -112,6 +114,7 @@ ul {
   font-size: 1em;
 }
 
+/*description of what I do*/
 .top {
   width: 60%;
   min-width:300px;
