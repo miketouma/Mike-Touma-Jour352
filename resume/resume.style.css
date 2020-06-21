@@ -1,0 +1,9 @@
+.banner {
+  width:100%;
+}
+
+.list-group-item {
+  background-color: #11ac5e;
+  color: white;
+  font-family: helvetica, sans-serif;
+}
