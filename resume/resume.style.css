@@ -18,14 +18,39 @@
   font-weight: 1.5em;
   background-color: #11ac5e;
   color: white;
-  border-bottom: 1px solid black;
+  width: 1000px;
+  margin-left: 220px;
 }
 
-.experience {
+.list-group {
   font-size: 20px;
   text-align: center;
 }
 
 .school-logo {
+  width: 130px;
+  height:125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.maryland li {
+  display: inline;
+}
+
+.section-header {
+  font-size: 3em;
+  text-align: center;
+  border-bottom: 1px solid #11ac5e;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+
+.school-name {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
 
 }
