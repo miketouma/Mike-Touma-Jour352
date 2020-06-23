@@ -78,3 +78,7 @@ body {
 .description {
   font-size: 1em;
 }
+
+.carousel-slide {
+  margin-top:0;
+}
