@@ -82,3 +82,10 @@ body {
 .carousel-slide {
   margin-top:0;
 }
+
+#copyright {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  text-align: right;
+}
