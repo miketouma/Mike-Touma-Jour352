@@ -1,0 +1,42 @@
+.headline {
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+}
+
+.byline {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family:"Montserrat", sans-serif;
+  text-align: center;
+}
+
+.chapter {
+  font-size: 2em;
+  font-weight: 700;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: georgia, serif;
+  line-height: 180%;
+}
+
+.picture {
+  margin: 0 auto;
+  width: 100%
+}
+
+#seaworld-cap {
+  font-size: 1em;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 1em;
+  font-family: georgia, serif;
+}
