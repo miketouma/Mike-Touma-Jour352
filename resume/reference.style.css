@@ -1,0 +1,64 @@
+body {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: 1em:
+  color: #444;
+  font-weight: 400;
+}
+#container {
+  width: 100%;
+  max-width:1200px;
+  margin: 0 auto;
+}
+
+
+/*Banner name on top */
+#name {
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+}
+
+.person {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+  min-width: 300px;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.company {
+  font-weight: 400;
+  font-size: 1.25em;
+}
+
+.contact {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
