@@ -3,5 +3,18 @@
   font-weight: 700;
   text-align: center;
   font-family:'Montserrat', sans-serif;
+}
 
+.pic-caption {
+  font-size: .75em;
+}
+
+p {
+  font-size: 1em;
+  font-family: "Montserrat," sans-serif;
+}
+
+.footer{
+  background-color: black;
+  color: white;
 }
