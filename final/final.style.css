@@ -3,6 +3,7 @@
   font-weight: 700;
   text-align: center;
   font-family:'Montserrat', sans-serif;
+  color: #206fd0;
 }
 
 .pic-caption {
@@ -17,4 +18,24 @@ p {
 .footer{
   background-color: black;
   color: white;
+}
+
+.byline {
+  font-size: 1em;
+}
+
+.chapter {
+  font-size: 2em;
+  font-weight: 500;
+  color: #206fd0;
+}
+
+.align-left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+body {
+  background-color: #cfd3d9;
 }
