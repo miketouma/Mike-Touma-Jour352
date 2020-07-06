@@ -11,7 +11,7 @@
 }
 
 p {
-  font-size: 1em;
+  font-size: .9em;
   font-family: "Montserrat," sans-serif;
 }
 
@@ -34,6 +34,39 @@ p {
   float: left;
   margin-right: 10px;
   margin-bottom: 5px;
+}
+
+.align-right {
+  float: right;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+blockquote {
+  font-size: 1.5em;
+  font-weight: 300;
+  font-style:italic;
+}
+
+.photo {
+  width: 100%;
+}
+
+.video {
+  margin-bottom: 10px;
+  width: 100%
+}
+
+.video iframe{
+   margin: 0 auto;
+   display: block;
+   width: 800px;
+}
+
+#blackfish {
+  text-align: center;
+
 }
 
 body {
