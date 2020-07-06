@@ -1,9 +1,43 @@
+.hero-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/*--Topper--*/
+.hero-image {
+  width: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 35%;
+  width: 100%;
+  background-color: red;
+  opacity: .6;
+}
+
+.hero-head {
+  font-family: "Montserrat", sans-serif;
+  font-size: 6em;
+  color: white;
+  margin: 0 auto;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.hero-sub {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+
+/*--body--*/
 .headline {
   font-size: 3em;
   font-weight: 700;
   text-align: center;
   font-family:'Montserrat', sans-serif;
-  color: #206fd0;
+  color: red;
 }
 
 .pic-caption {
@@ -22,12 +56,15 @@ p {
 
 .byline {
   font-size: 1em;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .chapter {
   font-size: 2em;
   font-weight: 500;
-  color: #206fd0;
+  color: red;
+
 }
 
 .align-left {
@@ -71,3 +108,17 @@ blockquote {
 body {
   background-color: #cfd3d9;
 }
+
+.chapter a {
+  color: red;
+}
+
+/*--media queries--*/
+@media(max-width: 800px) {
+  p {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .hero-head {
+    font-size: 1.5em;
+  }
